@@ -5,7 +5,7 @@ I’m currently working on [SELISE Digital Platform](https://selisegroup.com/)
 
 All of my projects are available at https://bmhhmartin.vercel.app/portfolio
 
-How to reach me **bmhhmartin.info@gmail.com**
+How to reach me **engr.mdhhmartin@gmail.com**
 
 Know about my experiences https://bmhhmartin.vercel.app/about
 

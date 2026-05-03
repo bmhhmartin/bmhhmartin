@@ -7,10 +7,10 @@
 👉 [SELISE Digital Platform](https://selisegroup.com/)
 
 🌐 All of my projects  
-👉 https://bmhhmartin.vercel.app/portfolio
+👉 https://mdhhmartin.vercel.app/portfolio
 
 📄 Know about my experiences  
-👉 https://bmhhmartin.vercel.app/about
+👉 https://mdhhmartin.vercel.app/about
 
 📫 How to reach me  
 👉 **engr.mdhhmartin@gmail.com**
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/bmhhmartin" target="_blank">
+  <a href="https://linkedin.com/in/mdhhmartin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
